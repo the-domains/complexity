@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Complexity]]></title>
-        <description><![CDATA[Complexity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Study Complexity]]></title>
+        <description><![CDATA[Study Complexity]]></description>
+        <link>https://thegrid.ai/studycomplexity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 17:57:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 18:11:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studycomplexity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One step forward and two steps back]]></title>
+            <description><![CDATA[<p>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a laColin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. </p>]]></description>
+            <link>https://thegrid.ai/studycomplexity/one-step-forward-and-two-steps-back/index.html</link>
+            <guid isPermaLink="false">f9d55347-ead3-4903-895f-5eaa978cfe5d</guid>
+            <pubDate>Sun, 24 Apr 2016 18:10:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Studying Complexity in International Relations]]></title>
             <description><![CDATA[<p>Yesterday, I defended a proposal to my dissertation committee at George Mason University. I want to model world orders by simulating the social mechanisms that culminate to create it. I think this is important for a host of reasons, most of them related war. </p>]]></description>
-            <link>undefinedstudying-complexity-in-international-relations/index.html</link>
+            <link>https://thegrid.ai/studycomplexity/studying-complexity-in-international-relations/index.html</link>
             <guid isPermaLink="false">b4ccb58e-8d7b-4c65-9735-f60e6320f569</guid>
             <pubDate>Sun, 24 Apr 2016 17:56:57 GMT</pubDate>
         </item>
