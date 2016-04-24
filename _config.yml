@@ -1,7 +1,7 @@
-name: Complexity
+name: Study Complexity
 favicon: null
-layout_spectrum: 0.13625307707116008
-typography_spectrum: 0.6348799257539213
+layout_spectrum: 0.89002
+typography_spectrum: 0.63608
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7875088835135102
-  lightness: 0.9097085085231811
-  saturation: 0.08036622311919928
-  rhythmicContrast: 0.010965031804516912
+    - '#ffffff'
+    - '#000000'
+    - '#8a8b8d'
+    - '#e79997'
+    - '#50292a'
+  brandStrength: 0.75
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
