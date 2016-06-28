@@ -4,11 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a la Colin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. "
-datePublished: '2016-04-24T18:10:34.689Z'
-dateModified: '2016-04-24T18:09:31.095Z'
+description: >-
+  The first challenge from my committee was to build a 'minimal working example'
+  of people acting on behalf of states, a laColin Wight's concept of 'structural
+  relationsim'. There's not nearly enough there to build a world out of. 
+datePublished: '2016-06-28T20:37:06.857Z'
+dateModified: '2016-04-24T18:10:38.187Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-one-step-forward-and-two-steps-back.md
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-one-step-forward-and-two-steps-back.md
-published: true
 url: one-step-forward-and-two-steps-back/index.html
 _type: Article
 
