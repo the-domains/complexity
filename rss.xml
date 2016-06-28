@@ -2,28 +2,21 @@
     <channel>
         <title><![CDATA[Study Complexity]]></title>
         <description><![CDATA[Study Complexity]]></description>
-        <link>http://studycomplexity.org/</link>
+        <link>https://thegrid.ai/complexity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 20:37:24 GMT</lastBuildDate>
-        <atom:link href="http://studycomplexity.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>My name is Clarence Dillon and I am a doctoral candidate in computational social science, studying social complexity in International Relations at George Mason University's Department of Computational and Data Sciences, College of Science.</p>]]></description>
-            <link>http://studycomplexity.org/my-name-is-clarence-dillon-and-i-am-a-doctoral-candidate-in/index.html</link>
-            <guid isPermaLink="false">0802b1b8-2c2e-45fa-88b0-f470fd36867f</guid>
-            <pubDate>Tue, 28 Jun 2016 20:34:17 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 28 Jun 2016 20:41:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/complexity/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[One step forward and two steps back]]></title>
             <description><![CDATA[<p>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a laColin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. </p>]]></description>
-            <link>http://studycomplexity.org/one-step-forward-and-two-steps-back/index.html</link>
+            <link>https://thegrid.ai/complexity/one-step-forward-and-two-steps-back/index.html</link>
             <guid isPermaLink="false">f9d55347-ead3-4903-895f-5eaa978cfe5d</guid>
             <pubDate>Tue, 28 Jun 2016 20:37:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Studying Complexity in International Relations]]></title>
             <description><![CDATA[<p>Yesterday, I defended a proposal to my dissertation committee at George Mason University. I want to model world orders by simulating the social mechanisms that culminate to create it. I think this is important for a host of reasons, most of them related war. </p>]]></description>
-            <link>http://studycomplexity.org/studying-complexity-in-international-relations/index.html</link>
+            <link>https://thegrid.ai/complexity/studying-complexity-in-international-relations/index.html</link>
             <guid isPermaLink="false">b4ccb58e-8d7b-4c65-9735-f60e6320f569</guid>
             <pubDate>Sun, 24 Apr 2016 17:56:57 GMT</pubDate>
         </item>
