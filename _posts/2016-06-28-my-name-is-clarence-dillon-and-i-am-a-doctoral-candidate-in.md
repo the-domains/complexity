@@ -9,15 +9,15 @@ description: >-
   social science, studying social complexity in International Relations at
   George Mason University's Department of Computational and Data Sciences,
   College of Science.
-datePublished: '2016-06-28T18:14:34.776Z'
-dateModified: '2016-06-28T18:14:15.908Z'
+datePublished: '2016-06-28T20:34:17.868Z'
+dateModified: '2016-06-28T19:56:45.056Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-06-28-my-name-is-clarence-dillon-and-i-am-a-doctoral-candidate-in.md
+starred: true
 url: my-name-is-clarence-dillon-and-i-am-a-doctoral-candidate-in/index.html
 _type: Article
 
