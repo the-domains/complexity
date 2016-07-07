@@ -4,8 +4,15 @@
         <description><![CDATA[Study Complexity]]></description>
         <link>http://studycomplexity.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 21:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 22:24:46 GMT</lastBuildDate>
         <atom:link href="http://studycomplexity.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Last week, Michael Smith and I presented some work we've been doing together on learning analytics at the Military Operations Research Society's 84th Symposium. It's good to get out.</p>]]></description>
+            <link>http://studycomplexity.org/last-week-michael-smith-and-i-presented-some-work-weve-bee/index.html</link>
+            <guid isPermaLink="false">63365702-74e6-4ab8-bbdc-d39bbd5fc4ed</guid>
+            <pubDate>Thu, 07 Jul 2016 22:24:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One step forward and two steps back]]></title>
             <description><![CDATA[<p>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a la Colin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. </p>]]></description>
