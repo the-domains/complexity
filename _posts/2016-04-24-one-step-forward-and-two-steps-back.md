@@ -6,25 +6,22 @@ inLanguage: null
 keywords: []
 description: >-
   The first challenge from my committee was to build a 'minimal working example'
-  of people acting on behalf of states, a laColin Wight's concept of 'structural
-  relationsim'. There's not nearly enough there to build a world out of. 
-datePublished: '2016-06-28T20:37:06.857Z'
-dateModified: '2016-04-24T18:10:38.187Z'
+  of people acting on behalf of states, a la Colin Wight's concept of
+  'structural relationsim'. There's not nearly enough there to build a world out
+  of. 
+datePublished: '2016-07-07T21:18:18.280Z'
+dateModified: '2016-07-07T21:17:29.491Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-one-step-forward-and-two-steps-back.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: one-step-forward-and-two-steps-back/index.html
 _type: Article
 
 ---
-The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, _a la_[Colin Wight's concept][0] of 'structural relationsim'. There's not nearly enough there to build a world out of. 
+The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, _a la _[Colin Wight's concept][0] of 'structural relationsim'. There's not nearly enough there to build a world out of. 
 
 To be fair, Wight was just working through the philosophical challenges in the 'agent-structure debate' in International Relations, not specifying a model. That was my idea. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b53dcf8-d7df-4f64-8cc4-141f6ca24821.png)
 
