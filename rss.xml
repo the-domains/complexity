@@ -4,21 +4,21 @@
         <description><![CDATA[Study Complexity]]></description>
         <link>http://studycomplexity.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 21:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 21:30:30 GMT</lastBuildDate>
         <atom:link href="http://studycomplexity.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One step forward and two steps back]]></title>
+            <description><![CDATA[<p>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a la Colin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. </p>]]></description>
+            <link>http://studycomplexity.org/one-step-forward-and-two-steps-back/index.html</link>
+            <guid isPermaLink="false">f9d55347-ead3-4903-895f-5eaa978cfe5d</guid>
+            <pubDate>Thu, 07 Jul 2016 21:30:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Java Maps]]></title>
             <description><![CDATA[<p>One of my side projects right now is to use figure out how to do agent-based simulation modeling (ABM) with in-memory data grids (like Hazelcast). A typical ABM assigns a behavior or reflex to agents based on their read of the environment. This usually happens by putting all of the code objects that represent agents into a list and iterating through the list to call on each object/agent to do some observation action, like counting neighbors or detecting a system state. </p>]]></description>
             <link>http://studycomplexity.org/java-maps/index.html</link>
             <guid isPermaLink="false">1aee827d-db0f-46b2-a932-831bc911040b</guid>
             <pubDate>Thu, 07 Jul 2016 21:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One step forward and two steps back]]></title>
-            <description><![CDATA[<p>The first challenge from my committee was to build a 'minimal working example' of people acting on behalf of states, a la Colin Wight's concept of 'structural relationsim'. There's not nearly enough there to build a world out of. </p>]]></description>
-            <link>http://studycomplexity.org/one-step-forward-and-two-steps-back/index.html</link>
-            <guid isPermaLink="false">f9d55347-ead3-4903-895f-5eaa978cfe5d</guid>
-            <pubDate>Thu, 07 Jul 2016 21:18:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Studying Complexity in International Relations]]></title>
