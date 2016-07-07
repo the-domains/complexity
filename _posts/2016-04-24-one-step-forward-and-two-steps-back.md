@@ -9,8 +9,8 @@ description: >-
   of people acting on behalf of states, a la Colin Wight's concept of
   'structural relationsim'. There's not nearly enough there to build a world out
   of. 
-datePublished: '2016-07-07T21:18:18.280Z'
-dateModified: '2016-07-07T21:17:29.491Z'
+datePublished: '2016-07-07T21:30:29.288Z'
+dateModified: '2016-07-07T21:18:21.423Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-one-step-forward-and-two-steps-back.md
