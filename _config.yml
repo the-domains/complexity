@@ -1,7 +1,7 @@
 name: Study Complexity
 favicon: null
-layout_spectrum: 0.70613
-typography_spectrum: 0.4345
+layout_spectrum: 0.67728
+typography_spectrum: 0.96695
 title: Study Complexity
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#8a8b8d'
     - '#e79997'
     - '#50292a'
-  brandStrength: 0.5625
+  brandStrength: 0.5
   lightness: 0.375
   saturation: 0
   rhythmicContrast: 0.5
