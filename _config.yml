@@ -28,6 +28,9 @@ navigation:
   - name: About
     id: d38f344a-bffe-406e-a721-2ba3eaa33035
     type: content
+  - name: 'Summary '
+    id: 7f3f9743-11b0-4992-bd0b-8d339b0420dc
+    type: content
 favicon: null
 title: Study Complexity
 description: studies of alternative world futures
