@@ -1,20 +1,4 @@
-name: Study Complexity
-favicon: null
-layout_spectrum: 0.67728
 typography_spectrum: 0.96695
-title: Study Complexity
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.375
   saturation: 0
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.67728
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Study Complexity
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About
+    id: d38f344a-bffe-406e-a721-2ba3eaa33035
+    type: content
+favicon: null
+title: Study Complexity
 purpose: []
